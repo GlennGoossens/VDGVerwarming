@@ -839,7 +839,7 @@ a:not([href]):not([tabindex]):hover {
   margin-top: 20px;
 }
 /* ==========================================================================
-   Download 
+   Download
    ========================================================================== */
 #download {
   background-image: linear-gradient(120deg, #89f7fe 0%, #4676fa 100%);
@@ -855,7 +855,7 @@ a:not([href]):not([tabindex]):hover {
   margin-right: 5px;
 }
 /* ==========================================================================
-   Blog 
+   Blog
    ========================================================================== */
 #blog .blog-item-wrapper {
   background: #fff;
@@ -876,6 +876,8 @@ a:not([href]):not([tabindex]):hover {
 }
 #blog .blog-item-img {
   position: relative;
+  height:200px;
+  padding: 25%;
 }
 #blog .blog-item-img img {
   width: 100%;
